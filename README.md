@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Typing Effect Banner -->
+  <!-- Typing Effect Banner (Rose Moderne - #FF69B4 / #E91E63) -->
   <a href="https://linkedin.com/in/zineb-hachimi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E6EE8&center=true&vCenter=true&width=600&lines=Zineb+Hachimi;AI+%26+Data+Science+Engineer;GenAI+%7C+LLM+%7C+RAG+%7C+Computer+Vision;Big+Data+Engineering+%26+MLOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Zineb+Hachimi;AI+%26+Data+Science+Engineer;GenAI+%7C+LLM+%7C+RAG+%7C+Computer+Vision;Big+Data+Engineering+%26+MLOps" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,10 +25,10 @@
 
 <br />
 
-<!-- Status Banner -->
+<!-- Status Banner (Rose Fuchsia & Rose Poudré) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯%20Recherche-Stage%20PFE%20(6%20mois%20--%20F%C3%A9vrier%202027)-2E6EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍%20Localisation-Rabat%20%2F%20Sal%C3%A9%2C%20Maroc-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯%20Recherche-Stage%20PFE%20(6%20mois%20--%20F%C3%A9vrier%202027)-E91E63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Localisation-Rabat%20%2F%20Sal%C3%A9%2C%20Maroc-FF69B4?style=for-the-badge" />
 </div>
 
 ---
@@ -44,7 +44,7 @@ profil:
 
 expertises_techniques:
   - IA Générative & RAG (LLMs, LangChain, FAISS, Gemini API, Multi-Agent Workflows)
-  - Vision par Ordinateur & Deep Learning (CNN, OpenCV, TensorFlow/Keras, YOLO)
+  - Vision par Ordinateur & Deep Learning (CNNs, OpenCV, TensorFlow/Keras, YOLO)
   - Big Data & Data Engineering (PySpark, MinIO, Hadoop HDFS, Airflow)
   - Développement Full-Stack & APIs (FastAPI, Django, Next.js, Node.js, Docker, MongoDB)
 > 💡 Vision : Rapprocher la modélisation théorique de la valeur métier en concevant des systèmes de données scalables, résilients et des modèles IA prêts pour le déploiement opérationnel.
