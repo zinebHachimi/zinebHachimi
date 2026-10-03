@@ -1,14 +1,11 @@
 <div align="center">
 
-  <!-- Titre dynamique élégant en rose -->
-  <a href="https://linkedin.com/in/zineb-hachimi">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Zineb+Hachimi;Élève-Ingénieure+IA+%26+Data+Science;GenAI+%7C+LLM+%7C+RAG+Architectures;Computer+Vision+%26+Big+Data+Engineering" alt="Typing SVG" />
-  </a>
+  <!-- Nom, Prénom et Spécialité -->
+  <h1>🌸 Zineb Hachimi</h1>
+  <h3>🎓 Élève-Ingénieure en Intelligence Artificielle & Data Science @ EMSI Rabat</h3>
+  <p><i>Ingénierie des données distribuées, architectures GenAI / RAG, Computer Vision & MLOps</i></p>
 
-  <p align="center">
-    <b>🎓 Élève-Ingénieure en Intelligence Artificielle & Data Science @ EMSI Rabat</b><br>
-    <sub><i>Ingénierie des données distribuées, architectures RAG/Agents, Computer Vision & MLOps</i></sub>
-  </p>
+  <br />
 
   <!-- Badges de contact assortis au thème rose/sombre -->
   <a href="https://linkedin.com/in/zineb-hachimi">
@@ -32,8 +29,6 @@
 </div>
 
 <br />
-
-> 💡 **Vision professionnelle :** Conception et déploiement de solutions d'Intelligence Artificielle de bout en bout — de l'ingénierie des pipelines Big Data distribués (PySpark, MinIO) aux architectures d'IA Générative avancées (RAG, Gemini API, Agents) et systèmes de Vision par Ordinateur (CNN, OpenCV).
 
 ---
 
@@ -76,7 +71,7 @@
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <b>🗄️ Databases & Frontend</b><br />
+      <b>🗄️️ Databases & Frontend</b><br />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -88,7 +83,7 @@
 
 ---
 
-### 🚀 Projets Réalisés
+### 🚀 Projets Phares
 
 <table>
   <tr>
